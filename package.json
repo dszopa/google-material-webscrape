@@ -1,0 +1,15 @@
+{
+  "name": "google-material-webscrape",
+  "version": "1.0.0",
+  "description": "A webscraper which will format the google material.io colors to css classes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Szopa",
+  "license": "ISC",
+  "dependencies": {
+    "osmosis": "^1.1.2"
+  }
+}
